@@ -1,6 +1,6 @@
 
 
-# Preview Code Application #1
+# Preview Code Application #3
 
 # Find Me
 
@@ -16,8 +16,6 @@
 
 # Framework/Library
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 # Databases
@@ -26,41 +24,26 @@
 
 # Description
 
-The folder above is some preview code that I wrote myself to see, because I didn't include the entire resource, for security reasons. I hope what I have attached is clear and can be taken into consideration. Thank You 😄
-
-The education staff application is a supporting application for company needs, features made according to existing requests and needs,
-in 1 application there are other applications in it that are connected to each other in 1 data.
-
-<ol>
-  <li>Job appraisal</li><li>Employment Assignment</li><li>Honorarium</li><li>Employee Leave</li><li>Academic Assignment Letter</li><li>Academic Invitation Letter</li><li>Staffing</li><li>Application Setup</li>
-</ol> 
-
-The composition that forms the basis for building this application is:
- 
+Traditional massage ordering application, where customers can order the desired time and massager, the price of the selected hour will be displayed to the customer
 <h4>Server Side</h4>
 
-[![LinkServerSide](https://img.shields.io/badge/Link-ServerSideFolder-blue.svg)](https://github.com/suharyadi2112/Aplikasi-Tenaga-Kependidikan/tree/main/app/Http/Controllers)
-
 <ol>
-  <li>The programming language is PHP</li>
-  <li>Using Laravel 5.8 as php framework</li>
+  <li>The programming language pure using native PHP</li>
 </ol>
 
 <h4>Front End Side</h4>
 
-[![LinkFrontEnd](https://img.shields.io/badge/Link-FrontEndFolder-green.svg)](https://github.com/suharyadi2112/Aplikasi-Tenaga-Kependidikan/tree/main/resources/views/admin/dashboard)
 
 <ol>
   <li>Built using HTML, CSS</li>
-  <li>Javascript for data presentation</li>
-  <li>Using JQuery as a Javascript Library</li>
+  <li>Bootstrap Framework Css, and Admin LTE for template</li>
 </ol>
 
 Databases
 Using MySQL Database and Navicat Management for database
 
 Templates
-Using https://adminlte.io/themes/v3/ as template.
+Using [https://adminlte.io/themes/v3/](https://adminlte.io/themes/AdminLTE/index2.html) as template.
 
 # Some Screenshots
 
