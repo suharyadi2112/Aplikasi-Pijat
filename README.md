@@ -53,8 +53,16 @@ Dashboard Masseur             |  Order Dashboard
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/105489642/169657133-81601a5f-17b9-4183-a074-f0c89cd33a89.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/169657161-1d09b0be-a52a-4a58-b521-4fc4b77073f2.jpg">
 
-Edit Order             |  salary Amount
+Edit Order             |  Salary Amount
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/105489642/169657253-8f55d614-684e-430d-b360-580f5641c0c6.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/169657261-2fcfa54e-f90d-4e7b-b781-cabce4763bbd.jpg">
+
+Dashboard Customer    |  Login
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/105489642/169658003-012b39f8-acb4-4f87-be9c-20184f948558.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/169657999-8a2fbb4d-827e-4db3-bc15-9f5d9db2d150.jpg">
+
+Booking Dashboard    |  
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/105489642/169658001-f2beaa60-4900-4b91-aff4-8b9197b57449.jpg">  |
 
 and much more..
